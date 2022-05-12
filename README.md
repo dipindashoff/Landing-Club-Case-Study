@@ -10,10 +10,7 @@ The company can utilize this knowledge for risk assessment.
 - Loans for the purpose of Small Business have high chances of defaulting.
 - Grade "F" and "G" have very high chances of defaulting with sub grade "F5" having the highest default ratio.
 - People with less than 1 year of employment and 10+ years of employment both have high chances for defaulting.
-- People who own houses have the lowest default rate. Borrow
-
-
-
-## Contributors:
-- Dipin Narayanan
-- Jishnu Krishnan
+- People who own houses have the lowest default rate. Borrowers in Rental homes and those with
+mortgages have higher chances of not paying their loans.
+- Borrowers from the state of 'NE' have the highest default rate. States, 'NV', 'SD', 'AK' and 'FL'
+also have high default rates.
